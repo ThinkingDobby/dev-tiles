@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">개발자 타일</string>
+    <string name="tile_label">USB 디버깅</string>
+    <string name="mock_location_tile_label">가상 위치 앱 설정</string>
+    <string name="permission_missing">WRITE_SECURE_SETTINGS 권한이 없습니다. adb로 권한을 부여해 주세요.</string>
+</resources>
